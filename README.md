@@ -11,6 +11,7 @@ All past positions displayed on this website (and in the original [document](htt
 	* [Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
 	* [PhD studentship in Cloud and Device Data Protection](#phd-studentship-in-cloud-and-device-data-protection)
 	* [PhD studentship in Cyber Security](#phd-studentship-in-cyber-security)
+    * [2 Postdoc openings in Computational Privacy](#2-postdoc-positions-in-computational-privacy)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
