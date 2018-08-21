@@ -11,6 +11,7 @@ All past positions displayed on this website (and in the original [document](htt
 	* [Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
 	* [PhD studentship in Cloud and Device Data Protection](#phd-studentship-in-cloud-and-device-data-protection)
 	* [PhD studentship in Cyber Security](#phd-studentship-in-cyber-security)
+	* [Post-Doc in Lattice-Based Cryptography at Royal Holloway](#post-doc-in-lattice-based-cryptography-royal-holloway)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
@@ -91,6 +92,24 @@ All past positions displayed on this website (and in the original [document](htt
 *Positions available/funding opportunities*: PhD in Cyber Security (for an UK/EU national)
 
 *Expiry date for opening*: open until filled
+
+### Post-Doc in Lattice-Based Cryptography at Royal Holloway
+
+*Contact name*: Martin Albrecht
+
+*Location*: Egham, UK
+
+*Institution*: Information Security Group, Royal Holloway, University of London
+
+*Contact information*: [martin.albrecht@royalholloway.ac.uk](mailto:martin.albrecht@royalholloway.ac.uk)
+
+*Research areas of interest*: Lattice-based cryptography (with a focus on building privacy preserving systems)
+
+*Positions available/funding opportunities*: Three year post-doc
+
+*Expiry date for opening*: September 17, 2018
+
+See https://jobs.royalholloway.ac.uk/vacancy.aspx?ref=0818-334
 
 
 ## Adding entries to list
