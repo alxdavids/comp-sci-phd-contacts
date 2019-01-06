@@ -31,6 +31,7 @@ If a position/contact here is still available, please feel free to submit a pull
      * [Switzerland](#switzerland)
      * [Singapore](#singapore)
      * [United Kingdom (UK)](#united-kingdom-uk)
+     
   * [Networks &amp; Systems](#networks--systems)
      * [Australia](#australia-1)
      * [Germany](#germany-1)
@@ -378,6 +379,15 @@ kimmo.halunen@vtt.fi
 Relevant links: http://www.vttresearch.com/services/digital-society/cyber-security  
 Currently three internships open (2 in Oulu and 1 in Espoo).  
 VTT has also a wide range of other technical research topics beyond security (check http://www.vttresearch.com for more information)  
+
+### Florida
+
+Reza Azarderakhsh
+Florida Atlantic University
+Department of Computer and Electrical Engineering and Computer Science
+e-mail: razarderakhsh@fau.edu
+web: https://faculty.eng.fau.edu/azarderakhsh/
+cryptography and security, with particular interest in cryptographic engineering, side-channel analysis, elliptic curve cryptography, finite field arithmetic, post-quantum cryptography, and hardware/software implementations.
 
 ### France
   
